@@ -1,7 +1,6 @@
 import random
 import math
 
-
 def main():
     dataset = get_data_set()  # get data set
     euclid_test = [0, 0, 0, 0, 0]  # accuracy for test euclidean distance for k=1 index 0,k = 3 index 1 and so on
